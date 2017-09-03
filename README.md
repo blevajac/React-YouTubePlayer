@@ -1,3 +1,15 @@
+# Overview
+
+Stephen Grider's Courses on React.JS, Redux and many more.  
+Each project folder contains App-s developed with the help of the course material.
+
+## Courses:
+### Udemy - Modern React with Redux
+https://www.udemy.com/react-redux/
+Author: [Stephen Grider](https://www.udemy.com/user/sgslo/)
+
+***
+
 # React - YouTubePlayer
 
 An application designed to test and engage various React.JS,  libraries, modules and possibilities.  
